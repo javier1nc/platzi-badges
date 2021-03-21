@@ -14,17 +14,17 @@ class Badge extends React.Component {
         <div className="Badge__section-name">
           <img
             className="Badge__avatar"
-            src="https://www.gravatar.com/avatar/21594ed15d68ace3965642162f8d2e84?d=identicon"
+            src="https://secure.gravatar.com/avatar/ed6319f96104aae3acf3d75cbc127026?size=400"
             alt="Avatar"
           />
           <h1>
-            Richard <br /> Kaufman
+            Javier <br /> Sanchez
           </h1>
         </div>
 
         <div className="Badge__section-info">
-          <h3>Frontend Engineer</h3>
-          <div>@sparragus</div>
+          <h3>Full Stack Engineer</h3>
+          <div>@javier1nc</div>
         </div>
 
         <div className="Badge__footer">#platziconf</div>
