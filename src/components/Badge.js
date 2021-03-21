@@ -18,8 +18,8 @@ class Badge extends React.Component {
         </div>
 
         <div>
-          <p>Frontend Engineer</p>
-          <p>@sparragus</p>
+          <p>Full Stack Engineer</p>
+          <p>@javier1nc</p>
         </div>
 
         <div>#platziconf</div>
